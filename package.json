@@ -51,5 +51,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/ulleflash84/dev-buddy.git"
-    }
+    },
+    "license": "SEE LICENSE"
 }
