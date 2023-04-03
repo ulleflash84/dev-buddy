@@ -15,15 +15,15 @@
         "commands": [
             {
                 "command": "dev-buddy.executeSelectedCode",
-                "title": "Execute selected code"
+                "title": "dev-buddy: Execute selected code"
             },
             {
                 "command": "dev-buddy.formatMarkdownTable",
-                "title": "Format Markdown table"
+                "title": "dev-buddy: Format Markdown table"
             },
             {
                 "command": "dev-buddy.sortSelectedWords",
-                "title": "Sort selected words alphabetically"
+                "title": "dev-buddy: Sort selected words alphabetically"
             }
         ]
     },
