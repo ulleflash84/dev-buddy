@@ -1,5 +1,4 @@
 .DS_Store
-.vscode
 .vscode-test/
 dist
 node_modules
